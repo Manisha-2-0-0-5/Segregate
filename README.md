@@ -1,1 +1,1 @@
-# Segregate.com
+# Segregate
